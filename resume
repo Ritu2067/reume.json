@@ -1,0 +1,129 @@
+{
+    "basics": {
+        "name": "RITU RAJ",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1002@iiitkota.ac.in",
+        "phone": "+918273392691",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Bareilly",
+            "postalCode": "243001",
+            "city": "Bareilly",
+            "countryCode": " India",
+            "region": "Uttarpradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Ritu2067",
+                "url": "https://www.github.com/Ritu2067"
+            },
+            {
+                "network": "linkedin",
+                "username": "Ritu Raj",
+                "url": "https://www.linkedin.com/in/ritu-raj-51a490245/"
+            },
+            {
+                "network": "Instagram",
+                "username": "gangwarrituraj12",
+                "url": "https://www.instagram.com/gangwarrituraj12/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "4.9",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++",
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Photography",
+            "keywords": [
+                "Nature"
+            ]
+        }
+    ]
+}
